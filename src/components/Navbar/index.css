@@ -1,0 +1,35 @@
+.nav-con {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+.dark-nav-con {
+  background-color: #333333;
+}
+.nav-img {
+  width: 30px;
+  height: 30px;
+}
+.nav-menu {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+.btn {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.nav-head {
+  font-size: 14px;
+  color: #1e293b;
+  margin-right: 20px;
+}
+.dark-nav-head {
+  color: #ffffff;
+}
